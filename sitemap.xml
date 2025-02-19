@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jsonnet-libs.github.io/hcp-terraform-operator-libsonnet/</loc>
+         <lastmod>2025-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/hcp-terraform-operator-libsonnet/2.7.1/</loc>
+         <lastmod>2025-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/hcp-terraform-operator-libsonnet/2.7.1/app/</loc>
+         <lastmod>2025-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/hcp-terraform-operator-libsonnet/2.7.1/app/v1alpha2/</loc>
+         <lastmod>2025-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/hcp-terraform-operator-libsonnet/2.7.1/app/v1alpha2/agentPool/</loc>
+         <lastmod>2025-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/hcp-terraform-operator-libsonnet/2.7.1/app/v1alpha2/module/</loc>
+         <lastmod>2025-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/hcp-terraform-operator-libsonnet/2.7.1/app/v1alpha2/project/</loc>
+         <lastmod>2025-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/hcp-terraform-operator-libsonnet/2.7.1/app/v1alpha2/workspace/</loc>
+         <lastmod>2025-02-19</lastmod>
+    </url>
+</urlset>
