@@ -1,0 +1,38 @@
+"edit_uri": ""
+"extra_css":
+  - "stylesheets/extra.css"
+"markdown_extensions":
+  - "pymdownx.highlight"
+  - "pymdownx.superfences"
+  - "mdx_truly_sane_lists":
+      "nested_indent": 2
+      "truly_sane": true
+"plugins":
+  - "search":
+      "separator": "[\\s\\-\\.]+"
+  - "minify":
+      "minify_html": true
+"repo_name": "jsonnet-libs/hcp-terraform-operator-libsonnet"
+"repo_url": "https://github.com/jsonnet-libs/hcp-terraform-operator-libsonnet"
+"site_name": "hcp-terraform-operator jsonnet library"
+"site_url": "https://jsonnet-libs.github.io/hcp-terraform-operator-libsonnet"
+"theme":
+  "features":
+    - "navigation.tabs"
+    - "navigation.indexes"
+  "name": "material"
+  "palette":
+    - "accent": "indigo"
+      "media": "(prefers-color-scheme: light)"
+      "primary": "indigo"
+      "scheme": "default"
+      "toggle":
+        "icon": "material/toggle-switch-off-outline"
+        "name": "Switch to dark mode"
+    - "accent": "red"
+      "media": "(prefers-color-scheme: dark)"
+      "primary": "red"
+      "scheme": "slate"
+      "toggle":
+        "icon": "material/toggle-switch"
+        "name": "Switch to light mode"
